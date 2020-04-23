@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\4e67af7b337b4bcc5507698b40630f343995f481\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\4e67af7b337b4bcc5507698b40630f343995f481\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\4e67af7b337b4bcc5507698b40630f343995f481\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\4e67af7b337b4bcc5507698b40630f343995f481\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\4e67af7b337b4bcc5507698b40630f343995f481\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\4e67af7b337b4bcc5507698b40630f343995f481\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\Class\\Jinal\\jinal-20180127T015033Z-001\\jinal\\MyProject\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Chintan\\.android\\build-cache\\36a23882d776618b5e2ba35239e88905284c33dc\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

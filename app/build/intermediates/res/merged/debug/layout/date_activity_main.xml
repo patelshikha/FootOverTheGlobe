@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/e"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+
+    android:paddingRight="16dp"
+
+    android:paddingTop="16dp"
+    >
+
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="FROM:"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="@color/text"
+        android:layout_alignBaseline="@+id/textView9"
+        android:layout_alignBottom="@+id/textView9"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="14dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:textColor="@color/text"
+        android:layout_height="wrap_content"
+        android:text="Select Date"
+        android:textSize="16sp"
+        android:layout_above="@+id/editText"
+        android:layout_toEndOf="@+id/textView7"
+        android:layout_marginBottom="22dp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="No.of people:"
+        android:textColor="@color/text"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="@color/text"
+        android:inputType="textPersonName"
+        android:textSize="30sp"
+        android:text=""
+        android:layout_alignBaseline="@+id/textView7"
+        android:layout_alignBottom="@+id/textView7"
+        android:layout_toEndOf="@+id/textView7"
+        android:layout_marginStart="17dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="TO:"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="@color/text"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignStart="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Date"
+        android:textSize="16sp"
+        android:layout_above="@+id/textView3"
+        android:layout_alignStart="@+id/textView3"
+        android:layout_marginBottom="43dp"
+        android:textColor="@color/text"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:padding="16dp"
+        android:text="NEXT"
+        style="@style/BtnPrimary"
+        android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp" />
+
+</RelativeLayout>

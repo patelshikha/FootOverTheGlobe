@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        >
+
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:tag="image_tag"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+
+            />
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+
+            android:layout_weight="2"
+
+            >
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_gravity="center_horizontal"
+                android:textColor="#333333"
+                android:paddingTop="10dp"
+                android:textSize="24dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/des1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:text="Vadodara"
+                android:textColor="#666666"
+                android:textSize="12dp"
+                /><!--
+            <TextView
+                android:id="@+id/des2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/des1"
+                android:text="Languages:English|Hindi|Gujarati"
+                android:textColor="#999999"
+                android:textSize="10dp"
+                />-->
+    <!--  <TextView
+                android:id="@+id/price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/des2"
+                android:text="price"
+                android:textColor="#333333"
+                android:layout_alignParentEnd="true"
+                android:textSize="16dp"
+                />
+-->
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000"
+        />
+
+
+</LinearLayout>
+
+
+

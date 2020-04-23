@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context="com.example.shruti.placeselection2.PlaceSelectionMain">
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:id="@+id/bt"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@android:color/transparent"
+        android:text="see all"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_below="@+id/bt"
+
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout">
+
+
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/horizontal_recycler_view"
+
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            />
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/verticalView"
+        android:scrollbars="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/linearLayout" />
+
+
+
+
+
+
+
+
+    <Button
+        android:id="@+id/button4"
+
+        android:layout_marginBottom="17dp"
+        android:text="NEXT"
+        style="@style/BtnPrimary"
+        />
+
+
+
+</LinearLayout>
+    </ScrollView>

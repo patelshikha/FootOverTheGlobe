@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:7:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Chintan\.android\build-cache\cedd101849f16a51c7bbc2a1a37b77aee20e000d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Chintan\.android\build-cache\4e67af7b337b4bcc5507698b40630f343995f481\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Chintan\.android\build-cache\66b208a57b74dd6e1f3340f86424d659fd4068cb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Chintan\.android\build-cache\f218c21ab0f0db6155e69cc48036562027639a01\output\AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Chintan\.android\build-cache\4fa73dcd224434dd8f1bb2a363fefecf5d70d5f8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Chintan\.android\build-cache\948baac6ae05e316149cbffe6741bd3ed7079eb2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Chintan\.android\build-cache\36a23882d776618b5e2ba35239e88905284c33dc\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Chintan\.android\build-cache\e5f5465d785ec7dead6129d340648aa3a33bdd12\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Chintan\.android\build-cache\3996768ea7d5aab53a776e4edd855cb2ec543144\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Chintan\.android\build-cache\b26f2ea0062b5e95d0c94f9210d137a7c63677a9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Chintan\.android\build-cache\f2e241a03ef35e61377dae0aa427aa46c92edc22\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Chintan\.android\build-cache\04f0eed2fec08be5908be0d1472bfbde27e2e382\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Chintan\.android\build-cache\fe760af2e9d43ec58eb6a108653c7dce6459dc06\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Chintan\.android\build-cache\7f0c0533e4aa72af8c1f76ed6c67fb9f2635ec5c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Chintan\.android\build-cache\d16174150d39f7e681284a9c1bfe80ce5c43672e\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.shruti.placeselection2.Login
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:14:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.shruti.placeselection2.Car_MainActivity
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.example.shruti.placeselection2.HomeActivity
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.shruti.placeselection2.Hotel_Activity1
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:23:9-53
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:23:19-50
+activity#com.example.shruti.placeselection2.PlaceList
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:24:19-44
+activity#com.example.shruti.placeselection2.Signup
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:25:19-41
+activity#com.example.shruti.placeselection2.HotelActivity2
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.shruti.placeselection2.RestListing
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:27:9-49
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:27:19-46
+activity#com.example.shruti.placeselection2.GuideListing
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:28:19-47
+activity#com.example.shruti.placeselection2.Guide_MainActivity
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:29:19-53
+activity#com.example.shruti.placeselection2.Rest_MainActivity
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:30:9-55
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:30:19-52
+activity#com.example.shruti.placeselection2.Place_page3
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:31:9-49
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:31:19-46
+activity#com.example.shruti.placeselection2.PlaceSelectionMain
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:32:9-56
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:32:19-53
+activity#com.example.shruti.placeselection2.Date_MainActivity
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:33:19-52
+activity#com.example.shruti.placeselection2.CalendarActivity
+ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml:34:19-51
+uses-sdk
+INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Chintan\.android\build-cache\cedd101849f16a51c7bbc2a1a37b77aee20e000d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Chintan\.android\build-cache\4e67af7b337b4bcc5507698b40630f343995f481\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Chintan\.android\build-cache\66b208a57b74dd6e1f3340f86424d659fd4068cb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Chintan\.android\build-cache\50333c179c864bf929b803acc55c0b33362b9a54\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Chintan\.android\build-cache\f218c21ab0f0db6155e69cc48036562027639a01\output\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Chintan\.android\build-cache\4fa73dcd224434dd8f1bb2a363fefecf5d70d5f8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Chintan\.android\build-cache\948baac6ae05e316149cbffe6741bd3ed7079eb2\output\AndroidManifest.xml:7:5-43
+MERGED from [com.savvi.datepicker:rangepicker:1.0.1] C:\Users\Chintan\.android\build-cache\86dfe678fd22328f9bcc3f1386d351f896e6571a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Chintan\.android\build-cache\36a23882d776618b5e2ba35239e88905284c33dc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Chintan\.android\build-cache\e5f5465d785ec7dead6129d340648aa3a33bdd12\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Chintan\.android\build-cache\3996768ea7d5aab53a776e4edd855cb2ec543144\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Chintan\.android\build-cache\b26f2ea0062b5e95d0c94f9210d137a7c63677a9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Chintan\.android\build-cache\f2e241a03ef35e61377dae0aa427aa46c92edc22\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Chintan\.android\build-cache\04f0eed2fec08be5908be0d1472bfbde27e2e382\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Chintan\.android\build-cache\fe760af2e9d43ec58eb6a108653c7dce6459dc06\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Chintan\.android\build-cache\7f0c0533e4aa72af8c1f76ed6c67fb9f2635ec5c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Chintan\.android\build-cache\d16174150d39f7e681284a9c1bfe80ce5c43672e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Chintan\.android\build-cache\4e67af7b337b4bcc5507698b40630f343995f481\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Class\Jinal\jinal-20180127T015033Z-001\jinal\MyProject\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Chintan\.android\build-cache\4e67af7b337b4bcc5507698b40630f343995f481\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Chintan\.android\build-cache\66b208a57b74dd6e1f3340f86424d659fd4068cb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Chintan\.android\build-cache\50333c179c864bf929b803acc55c0b33362b9a54\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Chintan\.android\build-cache\f218c21ab0f0db6155e69cc48036562027639a01\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Chintan\.android\build-cache\e5f5465d785ec7dead6129d340648aa3a33bdd12\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Chintan\.android\build-cache\3996768ea7d5aab53a776e4edd855cb2ec543144\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Chintan\.android\build-cache\b26f2ea0062b5e95d0c94f9210d137a7c63677a9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Chintan\.android\build-cache\f2e241a03ef35e61377dae0aa427aa46c92edc22\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Chintan\.android\build-cache\04f0eed2fec08be5908be0d1472bfbde27e2e382\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Chintan\.android\build-cache\fe760af2e9d43ec58eb6a108653c7dce6459dc06\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Chintan\.android\build-cache\7f0c0533e4aa72af8c1f76ed6c67fb9f2635ec5c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Chintan\.android\build-cache\d16174150d39f7e681284a9c1bfe80ce5c43672e\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Chintan\.android\build-cache\4e67af7b337b4bcc5507698b40630f343995f481\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Chintan\.android\build-cache\4e67af7b337b4bcc5507698b40630f343995f481\output\AndroidManifest.xml:26:9-47
